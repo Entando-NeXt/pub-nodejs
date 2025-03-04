@@ -1,0 +1,13 @@
+{
+  "name": "basic_nodejs",
+  "version": "1.0.0",
+  "description": "A basic test nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "npm install -g nodemon && nodemon -L app.js"
+  },
+  "keywords": [],
+  "author": "Paolo Marino, p.marino@entando.com",
+  "license": "ISC"
+}
